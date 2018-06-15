@@ -1,0 +1,25 @@
+{
+  "name": "saladcalculator",
+  "version": "1.0.0",
+  "description": "calculate calorie",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deadcheat/saladcalculator.git"
+  },
+  "author": "deadcheat",
+  "license": "MIT",
+  "dependencies": {
+    "assets": "^3.0.0",
+    "babel-preset-env": "^1.7.0",
+    "bulma": "^0.7.1",
+    "hyperapp": "^1.2.6"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "typescript": "^2.9.2"
+  }
+}
