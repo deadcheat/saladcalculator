@@ -249,6 +249,7 @@ const view = (state: State, actions: Actions) => (
                     <div class="hero-body">
                         <div class="container">
                             <div class="title is-bold is-danger">このサラダのカロリー：{actions.total} KCal</div>
+                            <div class="title is-bold is-danger">※ 表示されているカロリーは目安となります</div>
                         </div>
                     </div>
                 </section>
